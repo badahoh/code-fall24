@@ -313,7 +313,7 @@ for y in range(400):
 
         if x % 100 > 50 and y % 100 > 50:
             g = 255
-            
+            #green
 
         pixel = (r, g, b)
         img.putpixel( (x,y), pixel )
