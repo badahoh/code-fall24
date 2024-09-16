@@ -317,7 +317,7 @@ for y in range(400):
 
         pixel = (r, g, b)
         img.putpixel( (x,y), pixel )
-
+#checking
 img.save(sys.argv[1])
 
 
