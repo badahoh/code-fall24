@@ -25,7 +25,8 @@ arts_data.close()
     #  #  tried sorting for longest word on the website but gave nothing 
 
 def getTitles(soupdata):  
-   titles = soupdata.select("h2")
+   #titles = soupdata.select("h2") # h2 is 2nd level of headings 
+   titles = soupdata.select("p") # paragraphs
    if titles:
      for t in titles:
        print(t.text)
