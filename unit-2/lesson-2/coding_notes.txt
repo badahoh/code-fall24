@@ -1,0 +1,299 @@
+﻿8/28
+Command space bar search terminal → type of interface  AKA GUI (graphical user interface) 
+
+
+pwd: print working directory / folder 
+        → aka where am i on my computer rn 
+ls : list all of other folders inside that folder 
+
+
+open(space). 
+mkdir(space) : folder name code-fall24
+cd(space).. 
+cd(space)badaoh : change directory
+
+
+To get into user 
+pwd
+cd Users n
+users 
+cd /Users
+pwd 
+ls 
+cd badaoh 
+ls 
+
+
+making new folder in main folder :
+mkdir code-fall24
+cd code-fall24
+mkdir unit-1 (folder within folder) 
+cd unit-1 
+mkdir lesson-1
+\NEW FILE 
+cd lesson-1 
+touch test.py (python)
+
+
+Command python3
+Need to install need over 20 gb of storage but only have 7  
+Move stuff to a hard drive
+
+
+On visual studio code 
+Under test.py 
+For HW basic python files and run them 
+After you install python  
+Under test.py in visual studio code type / writing python programs
+1 → x = 5 (enter) 
+2 → if x > 5:
+3 → (space)print(“Greater than fiiiivee!!!!!!”)
+4 → else: (return)
+5 → (space) print(“less than 5”)  (save) (command s) 
+
+
+*press play button (triangle logo upper right corner)
+If it's not there install python extension 
+Four box logo thingy for extension (control+shift+x) 
+
+
+(if vs code doesn't show where you are quit and drag folder again into vs code) 
+
+
+*Under terminal program should return data 
+ * close all the tabs  
+
+
+
+
+
+
+9/4
+
+
+Website: stackoverflow.com 
+For questions
+
+
+Submit all assignments on github repository code-fall24 
+Made lesson-2 → inside classwork.py
+
+
+cd.. = going backwards 
+
+
+git(space)init
+
+
+git(space) add(space) -A
+git(space)status (showing every folder and file directly inside main folder) 
+Says “on branch main
+Nothing to commit, working tree clean”
+
+
+git(space) commit(space)-am “adding allll my files to my new repository”  
+
+
+git remote add origin https://github.com/badahoh/code-fall24.git
+
+
+Git fetch → local servers/files pulling down from remote servers and files 
+Algorithms → shape our lives 
+What is this mechanism that shows us certain things vs what aren’t shown 
+
+
+In VS code
+Under classwork.py
+
+
+1 score = 28 
+→ statements(what is line of code is doing) can have expressions(“score” or “28”) and use multiple operators 
+Comments: writing in your own language not coding language 
+→ # this is comment    
+
+
+
+
+        The Language of New Media by Manovich provided multiple insights on how art, media, and digital languages intertwine. The first part of the reading gave me a new perspective on how I connected art and media. Media seems like the digitized way of displaying creations for a focused viewing: seeing things in their own forms.Different languages of expressions can be separated into their own categories without being seen as opportunities to become something whole. Mixing different media together can create a whole new form of communication that represents human vision; human reality in the way we see fit. In a sectioned way, the different variables of new media such as numerical representation, modularity, automation, variability, and transcoding gave me a much clearer understanding of coding language and why it is the way it is. Even given a scope on what new media is not made me begin to understand how complicated yet abstract the digitized world is. Perhaps it’s my low ability to comprehend the whole concept of it just yet as it felt like an introduction to a reality that I’ve been living in but have yet to grasp.
+  
+
+
+
+
+
+
+
+9/9 lesson 3
+number_list.sort() ← python code 
+
+
+
+
+https://www.codecademy.com/learn/learn-python-3 
+
+
+
+
+9/11 lesson 4 
+Manovich 
+
+
+Code → computer  
+
+
+19th century → film/camera/calculator 
+Film & calculating → New media →  is not new → 20th century 
+                        → numerical/module/variability/ automation/transcoding 
+                                → modularity (parts are whole and whole are parts
+everything works within it)
+Cultural layer → Liberal art 
+                        → philosophy/history/media/social sciences 
+
+
+niplexed Information and Computing Service
+We might bring these two arguments
+together, triangulating race, electronic culture, and post-structuralism, and,
+further, argue that race, particularly in the United States, is central to this
+undertaking, fundamentally shaping how we see and know as well as the
+technologies that underwrite or cement both vision and knowledge. Certain
+modes of racial visibility and knowing coincide or dovetail with specific ways
+of organizing data: if digital computing underwrites today’s information
+economy and is the central technology of post-World War II America, these
+technologized ways of seeing/knowing took shape in a world also struggling
+with shifting knowledges about and representations of race. If, as Michael Omi
+and Howard Winant argue, racial formations serve as fundamental organizing
+principles of social relations in the United States, on both the macro and micro
+levels
+
+
+
+
+Another rule of UNIX is the “Rule of Diversity,” which insists on a mistrust
+of the “one true way.” Thus UNIX, in the word of one account, “embraces
+multiple languages, open extensible systems and customization hooks
+everywhere,” reading much like a description of the tenets of neoliberal
+multiculturalism if not poststructuralist thought itself (Raymond 2004: 24). As
+you read the ample literature on UNIX, certain words emerge again and again:
+modularity, compactness, simplicity, orthogonality. UNIX is meant to allow
+multitasking, portability, time-sharing, and compartmentalizing. It is not much
+of a stretch to layer these traits over the core tenets of post-Fordism, a process
+which begins to remake industrial-era notions of standardization in the 1960s:
+time–space compression, transformability, customization, a public/private blur,
+etc. UNIX’s intense modularity and information-hiding capacity were
+reinforced by its design: that is, in the ways in which it segregated the kernel
+from the shell. The kernel loads into the computer’s memory at startup and is
+“the heart” of UNIX (managing “hardware memory, job execution and time
+sharing”), although it remains hidden from the user (Baldwin and Clark 2000:
+332). The shells (or programs that interpret commands) are intermediaries
+between the user and the computer’s inner workings. They hide the details of
+the operating system from the user behind “the shell,” extending modularity
+from a rule for programming in UNIX to the very design of UNIX itself.4
+Many of these shifts were enacted in the name of liberalism,
+aimed at distancing the overt racism of the past even as they contained and
+cordoned off progressive radicalism. The emergence of covert racism and its
+rhetoric of colorblindness are not so much intentional as systemic. Computation
+is a primary delivery method of these new systems, and it seems at best naïve
+to imagine that cultural and computational operating systems don’t mutually
+infect one another.
+Thus we see modularity take hold not only in computation but also in the
+increasingly niched and regimented production of knowledge in the university
+after the Second World War. For instance, Christopher Newfield comments
+on the rise of New Criticism in literature departments in the Cold War era,
+noting its relentless formalism, a “logical corollary” to “depoliticization” (2004:
+145) that “replaced agency with technique” (2004: 155). He attributes this
+particular tendency in literary criticism at least in part to the triumph of a
+managerial impulse, a turn that we might also align (even if Newfield doesn’t)
+with the workings of modular code (itself studied as an exemplary approach
+to “dynamic modeling systems” for business management in the work of
+Baldwin and Clark cited above).6
+
+
+The one quote from this reading that resonated with me was “computation is a primary delivery method of these new systems, and it seems at best naive to imagine that cultural and computational operating systems don’t mutually infect one another.” As introductions to coding and computational history have made way into my flow of thoughts and the way I generally perceive the world, I’ve begun to appreciate more of how everything is interconnected to one another. It seems very obvious and mindless to realize such a structure of culture, race and media, but McPherson’s view on this offered me new insight. As UNIX is meant to allow multitasking, portability, time-sharing, and compartmentalizing, the way in which UNIX operates these tasks must have been reflected off of what general society’s values revolved around. It made me trace back to all the technologies that exist already regarding detection, recognition, facial patterns, security, photo capture, lighting, etc where accuracy and effectiveness were only tested on those with a specific complexion and not the latter. Certain groups are used as the perfect test subject which all technologies would apply to while other groups are left unseen and unconsidered, to the point where the technologies are unaffected by their presence. 
+  
+
+Taking an image and changing it only using code because images are made up of numbers 
+* Open image in textedit 
+* Delete chunk of code 
+* Save 
+* Data gets removed ad  
+   * Montfort made me realize something I’ve never considered. I believe we live in a society so developed and so media focused that unless you’ve had some prior experience or knowledge in the world of code or software development, you would forget that software was developed by someone not just out of thin air. It may sound silly but I’ve never thought of softwares as designs as their own. As someone who’s been using different softwares as part of my creative processes I guess I’ve been taking them for granted. I’ve always thought of how code and design would relate to each other but this reading shows how much they are intertwined. I’ve always viewed code in the “traditional” way of computing and complicated algorithms that I would  never understand but it turns out coding has more of a symphonic nature than I thought it would. More pattern and abstract to work with and more relation to culture and society than the distance I put between code and reality. 
+
+
+
+
+
+
+
+
+Resizing image in file itself 
+
+
+Focusing on the difference between the functions of a semicolon and colon. Using a semicolon after a string in a PRINT statement causes the next string to be printed immediately after the previous one, without a newline or any spaces between them. The colon separates two BASIC statements that could have been placed on different lines.
+
+
+
+
+
+
+Engage technology and its production 
+→ don’t ignore abstractions \
+
+
+
+
+
+
+Benjamin 
+“Like a welcome sign inviting people in or a scary mask repelling and pushing them away, this thing that is most ours is also out of our hands.” 
+Politics, race, social standing, economical value, classist, elitist, racist, 
+
+
+   * “Invisibility acts like a superpower” 
+   * “Whiteness offers immunity” 
+   * New technologies can impose objective inequity to those that are victim to it. 
+   * Whiteness is the norm to where everything else is measured around 
+   * “Normal name” gives racial invisibilityu 
+   * A team of comp sci at Princeton conducted experiment that showed white names were associated with “pleasant” words and black names were associated with “unpleasant” words. 
+   * RACIAL CODES WERE BORN FOR and facilitate social control 
+   * As were hear names the names are associated with stereotypical assumptions just engraved by racial assumptions 
+   * Even with autocorrect on the computer more foreign names are underlined as mispelled were more common western names are left alone 
+   * Even with people who are transgender that are misgendered and called by their “deadnames” 
+   * Codes operate within powerful systems of meaning that render some things visible or invisible , and create an array of distortions or dangers.
+   * Social codes are embedded to technical coding of software programs where certain names are associated with certain images or records 
+   * The New Jim Code: encompasses range of discriminatory designs→ made to fix racial bais but do the opposite and replicate social divisions 
+   * Even when looking up simple stock photos all the images come up as white people unless you specify “black, asian, latino, etc etc” 
+
+
+
+
+        I truly appreciate the connections that are brought to my attention when it comes to code and society. “Like a welcome sign inviting people in or a scary mask repelling and pushing them away, this thing that is most ours is also out of our hands,” is a quote from the reading that had the most impact on me. A notion so simple like a name, what you are addressed as and identified as, has such an inconceivable impact on your life. I’ve struggled with the issue that reading brings up since a young age, having a “foreign” or “unfamiliar” name taught me that introducing myself was a hassle, a chore, and even sometimes a fear of being embarrassed or frustrated that my peers, friends, and teachers would butcher my name. Even the expression on people’s faces come with unpleasantry as they try to pronounce the name they aren’t confident in executing. “Whiteness offers immunity” was definitely realized before I hit my double digits. Even modern technology shows constant signs of racial codes that are embedded in society as certain names from certain demographics are portrayed in severely different ways that have possibly detrimental effects on that person’s life. The New Jim code reflects how it encompasses a range of discriminatory designs. Even when looking up simple photos on google images, the search will instantly come up with white people that match the description. If you want specific results you would look up “asian, black, latino, etc etc” to specify that search that “goes against the norms.” Another example shows the software I use to write this assignment. Typing my own name inevitably shows up as “incorrect” as the squiggly red line under it shows that something is “wrong” and “needs fixing,” while I can type any other generic name Rachel, Monica, Phoebe, and other people in the Friends cast, and there wouldn’t be any autocorrect signs. It's interesting to say the least. 
+
+
+
+
+
+
+
+
+But the civil service’s one-size-fits all, standardized approaches to what constitutes “poverty” or “acceptable forms of identification” are ultimately about organization and abstraction, and consequently treat expediency and efficiency as their own ethical virtues.
+
+
+When this bond of shared humanity, victimhood and moral equality is sundered, an erosion of behavioral restraint often follows … what remains is a gardener’s vision of war; a war of pest control.
+
+
+ Without communication, connection, and empathy, it becomes easy for actors to take on the “gardener’s vision”: to treat those they are acting upon as less human or not human at all and to see the process of interacting with them as one of grooming, of control, of organization.
+
+
+The problem has stemmed from the positivist treatment of people as a means to a particular end: “data.” That this data stems from human bodies, lives, and traces is (to too many scientists) an unfortunate corollary, a distraction from science’s purity
+c
+Capitalist regime, nothing but abstract data 
+but it does not tell you why — you don’t need it to.You just get decisions, outcomes, things you can use.
+
+
+That an algorithm “works” for any post-hoc purpose becomes a justification for that algorithm, its efficacy and its deployment, and the rationale for collecting even more data to feed it. In pursuit of the one big truth — the truth that only an algorithm can determine — anything is permissible. That “truth” is simply superior; qualitative concerns, subjective concerns such as human cost, bias, or base morality, do not even register as legitimate.
+
+
+machinic neoplatonism philosophy 
+
+
+        The Gardener’s Vision formed a contingent connection between the previous readings about theory, race and moral in relation to code: to at least how I understand it. The systems in which data are run show to have a more complicated/ simple, however you may perceive it, relationship with the society it exists in. Data collection has always balanced on a very thin beam balancing morals and ethics with necessary documentation and collection of information. We live in a world where half are desensitized and half are paranoid and offended by how much of ourselves are known by people we don’t know. Data collection and accuracy of that collection also raises the same alarm of exposure, lack of privacy, consent, and stripping away the little power that marginalized communities are allowed to have. The poor and powerless are usually targeted as subjects, easier to control for efficiency and expediency because that is what is valued by capitalist urgency. But if data is “fact” and “truth” shouldn’t it say what is for what it really is? Like the reading mentioned, an algorithm can determine that anything is permissible, which includes qualitative/subjective concerns and morality because the truth is all that matters. If that is the case those who run the codes should be aware that the machine is a source of singular truth and not personal biases.
