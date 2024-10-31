@@ -4,7 +4,7 @@ import sys
 #import pprint 
 ## "pretty print" to print dictionary in a clearer way 
 
-filename = sys.argv[1]
+filename = sys.argv[1] # could change it to filename = "name of file"
 text = open(filename).read().lower().split()
 markovDictionary = {}	
 
